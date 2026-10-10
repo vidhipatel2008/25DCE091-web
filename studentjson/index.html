@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Student Portal</h1>
+
+    <div class="controls">
+
+        <input type="text" id="search"
+               placeholder="Search student...">
+
+        <select id="course">
+            <option value="all">All Courses</option>
+            <option value="Computer Engineering">Computer Engineering</option>
+            <option value="Information Technology">Information Technology</option>
+            <option value="Computer Science">Computer Science</option>
+        </select>
+
+        <select id="sort">
+            <option value="name">Sort by Name</option>
+            <option value="year">Sort by Year</option>
+        </select>
+
+    </div>
+
+    <div id="students"></div>
+
+    <div class="pagination">
+        <button onclick="previousPage()">Previous</button>
+        <span id="page"></span>
+        <button onclick="nextPage()">Next</button>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    background-color: #eef5ff;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #2563eb;
+}
+
+.controls {
+    text-align: center;
+    margin: 20px;
+}
+
+input, select {
+    padding: 10px;
+    margin: 5px;
+}
+
+#students {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px gray;
+}
+
+.card h3 {
+    color: #2563eb;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 25px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    border-radius: 5px;
+}

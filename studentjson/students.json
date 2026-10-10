@@ -1,0 +1,58 @@
+[
+    {
+        "id": 101,
+        "name": "STUDENT 1",
+        "course": "Computer Engineering",
+        "year": 1,
+        "city": "Ahmedabad"
+    },
+    {
+        "id": 102,
+        "name": "STUDENT 2",
+        "course": "Information Technology",
+        "year": 2,
+        "city": "Vadodara"
+    },
+    {
+        "id": 103,
+        "name": "STUDENT 3",
+        "course": "Computer Engineering",
+        "year": 1,
+        "city": "Surat"
+    },
+    {
+        "id": 104,
+        "name": "STUDENT 4",
+        "course": "Computer Science",
+        "year": 3,
+        "city": "Rajkot"
+    },
+    {
+        "id": 105,
+        "name": "STUDENT 5",
+        "course": "Information Technology",
+        "year": 2,
+        "city": "Ahmedabad"
+    },
+    {
+        "id": 106,
+        "name": "STUDENT 6",
+        "course": "Computer Science",
+        "year": 4,
+        "city": "Vadodara"
+    },
+    {
+        "id": 107,
+        "name": "STUDENT 7",
+        "course": "Computer Engineering",
+        "year": 3,
+        "city": "Surat"
+    },
+    {
+        "id": 108,
+        "name": "STUDENT 8",
+        "course": "Information Technology",
+        "year": 1,
+        "city": "Rajkot"
+    }
+]
